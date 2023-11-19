@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp07StringMetodos", "CSharp07StringMetodos\CSharp07StringMetodos.csproj", "{929A896B-BFED-46F5-A7C6-C324F0B304FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp08While", "CSharp08While\CSharp08While.csproj", "{7BF59F76-EAFC-4189-A5A9-5E0F1ED0396C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{929A896B-BFED-46F5-A7C6-C324F0B304FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{929A896B-BFED-46F5-A7C6-C324F0B304FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{929A896B-BFED-46F5-A7C6-C324F0B304FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF59F76-EAFC-4189-A5A9-5E0F1ED0396C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF59F76-EAFC-4189-A5A9-5E0F1ED0396C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF59F76-EAFC-4189-A5A9-5E0F1ED0396C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF59F76-EAFC-4189-A5A9-5E0F1ED0396C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
