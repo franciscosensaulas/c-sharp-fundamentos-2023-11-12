@@ -5,15 +5,22 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp02ConversaoTipos", "CSharp02ConversaoTipos\CSharp02ConversaoTipos.csproj", "{84754DFA-72CB-42AA-B743-1D68923C8BF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp03EntradaDados", "CSharp03EntradaDados\CSharp03EntradaDados.csproj", "{2F515BDD-290F-4FCF-9368-A40144DF6459}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp03EntradaDados", "CSharp03EntradaDados\CSharp03EntradaDados.csproj", "{2F515BDD-290F-4FCF-9368-A40144DF6459}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp04EstruturaCondicional", "CSharp04EstruturaCondicional\CSharp04EstruturaCondicional.csproj", "{D24AC52D-D71E-4DC4-B3A1-A2D2D8F9B43B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp04EstruturaCondicional", "CSharp04EstruturaCondicional\CSharp04EstruturaCondicional.csproj", "{D24AC52D-D71E-4DC4-B3A1-A2D2D8F9B43B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp05EstruturaCondicionalAnd", "CSharp05EstruturaCondicionalAnd\CSharp05EstruturaCondicionalAnd.csproj", "{50F7893F-9EB7-42A0-9816-16681E7FAFD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp05EstruturaCondicionalAnd", "CSharp05EstruturaCondicionalAnd\CSharp05EstruturaCondicionalAnd.csproj", "{50F7893F-9EB7-42A0-9816-16681E7FAFD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp06EstruturaCondicionalOr", "CSharp06EstruturaCondicionalOr\CSharp06EstruturaCondicionalOr.csproj", "{1F53894C-A484-4A46-9B89-6B97389638A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp06EstruturaCondicionalOr", "CSharp06EstruturaCondicionalOr\CSharp06EstruturaCondicionalOr.csproj", "{1F53894C-A484-4A46-9B89-6B97389638A4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp01Apresentacao", "CSharp01Apresentacao\CSharp01Apresentacao.csproj", "{5579D417-C024-4E8F-B2FD-B135FB670267}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{96FDF203-45A1-4309-BCD7-EB3F3C44E6F8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp07StringMetodos", "CSharp07StringMetodos\CSharp07StringMetodos.csproj", "{929A896B-BFED-46F5-A7C6-C324F0B304FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +52,10 @@ Global
 		{5579D417-C024-4E8F-B2FD-B135FB670267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5579D417-C024-4E8F-B2FD-B135FB670267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5579D417-C024-4E8F-B2FD-B135FB670267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929A896B-BFED-46F5-A7C6-C324F0B304FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929A896B-BFED-46F5-A7C6-C324F0B304FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929A896B-BFED-46F5-A7C6-C324F0B304FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929A896B-BFED-46F5-A7C6-C324F0B304FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
