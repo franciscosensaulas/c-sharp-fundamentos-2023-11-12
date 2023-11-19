@@ -63,3 +63,21 @@ Console.WriteLine(
 // - menorIdade
 // - nomePessoaMaiorIdade
 // - nomePessoaMenorIdade
+
+
+/*
+ *  Exercício: Solicitar os seguintes dados de 5 pessoas
+ *  - Nome
+ *  - Idade
+ *  - Peso
+ *  - Altura
+ *  Calcular o imc: peso / altura²
+ * 
+ *  Apresentar no final a quantidade de pessoas de acordo com o imc:
+ *  - Quantidade de pessoas abaixo do peso
+ *  - Quantidade de pessoas peso normal
+ *  - Quantidade de pessoas excesso de peso
+ *  - Quantidade de pessoas Obesidade I
+ *  - Quantidade de pessoas Obesidade II
+ *  - Quantidade de pessoas Obesidade III
+ */
