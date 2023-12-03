@@ -20,7 +20,7 @@ Console.WriteLine("Programa encerrou corretamente");
 
 
 // Solicitar o nome, idade, peso para usuário
-Console.Write("\n\nDigite o nome");
+Console.Write("\n\nDigite o nome: ");
 string nome = Console.ReadLine();
 int idade = 0;
 try
