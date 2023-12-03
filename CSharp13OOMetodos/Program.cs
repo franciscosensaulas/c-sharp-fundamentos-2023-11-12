@@ -15,5 +15,8 @@ exemplo01.Executar();
 //exemplo02.Executar();
 
 // Instanciar um objeto da classe Exemplo03
-Exemplo03 exemplo03 = new Exemplo03();
-exemplo03.Executar();
+//Exemplo03 exemplo03 = new Exemplo03();
+//exemplo03.Executar();
+
+Exercicio01 exercicio01 = new Exercicio01();
+exercicio01.Executar();
