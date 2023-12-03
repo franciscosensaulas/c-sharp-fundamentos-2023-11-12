@@ -1,0 +1,18 @@
+Criar classe Aluno com as seguintes propriedades:
+- LogicaNota1, LogicaNota2, LogicaNota3
+- BancoDadosNota1, BancoDadosNota2, BancoDadosNota3
+
+
+Criar os seguintes métodos:
+- CalcularMediaLogica: deve calcular a média das notas de Lógica
+- ObterStatusLogica: implementar conforme itens abaixo:
+	média de lógica abaixo de 5 => reprovado
+	média de lógica abaixo de 7 => em exame
+	média de lógica acima de 6.99 => aprovado
+- CalcularMediaBancoDados: deve calcular a média das notas de Banco de Dados
+- ObterStatusBancoDados: implementar conforme itens abaixo:
+	média de banco de dados abaixo de 5 => reprovado
+	média de banco de dados abaixo de 7 => em exame
+	média de banco de dados acima de 6.99 => aprovado
+
+- ObterStatus: implementar verificando que está aprovada em lógica e em Banco de dados.
