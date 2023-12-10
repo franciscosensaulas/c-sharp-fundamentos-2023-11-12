@@ -38,6 +38,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp14For", "CSharp14For\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp15ForComVetor", "CSharp15ForComVetor\CSharp15ForComVetor.csproj", "{691C43DD-7BBB-481C-B1E0-D37793EC2F7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp16ListasTiposPrimitivos", "CSharp16ListasTiposPrimitivos\CSharp16ListasTiposPrimitivos.csproj", "{F6AF7F15-7FDD-48B9-AEFD-6400A94F1C30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{691C43DD-7BBB-481C-B1E0-D37793EC2F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{691C43DD-7BBB-481C-B1E0-D37793EC2F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{691C43DD-7BBB-481C-B1E0-D37793EC2F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AF7F15-7FDD-48B9-AEFD-6400A94F1C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AF7F15-7FDD-48B9-AEFD-6400A94F1C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AF7F15-7FDD-48B9-AEFD-6400A94F1C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AF7F15-7FDD-48B9-AEFD-6400A94F1C30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
