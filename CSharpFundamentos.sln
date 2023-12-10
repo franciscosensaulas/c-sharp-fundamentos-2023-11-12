@@ -34,7 +34,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp12TratamentoExcecoesC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp13OOMetodos", "CSharp13OOMetodos\CSharp13OOMetodos.csproj", "{C3E4F60C-11EF-4F65-BB7E-AA177E2E6743}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp14For", "CSharp14For\CSharp14For.csproj", "{D5F86F55-A110-43A6-BE0E-7D8FD3B56926}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp14For", "CSharp14For\CSharp14For.csproj", "{D5F86F55-A110-43A6-BE0E-7D8FD3B56926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp15ForComVetor", "CSharp15ForComVetor\CSharp15ForComVetor.csproj", "{691C43DD-7BBB-481C-B1E0-D37793EC2F7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -98,6 +100,10 @@ Global
 		{D5F86F55-A110-43A6-BE0E-7D8FD3B56926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5F86F55-A110-43A6-BE0E-7D8FD3B56926}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5F86F55-A110-43A6-BE0E-7D8FD3B56926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691C43DD-7BBB-481C-B1E0-D37793EC2F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691C43DD-7BBB-481C-B1E0-D37793EC2F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691C43DD-7BBB-481C-B1E0-D37793EC2F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691C43DD-7BBB-481C-B1E0-D37793EC2F7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
