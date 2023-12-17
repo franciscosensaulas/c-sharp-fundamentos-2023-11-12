@@ -1,4 +1,4 @@
 ﻿using CSharp16ListasTiposPrimitivos;
 
-Exemplo01 exemplo = new Exemplo01();
+Exercicio01 exemplo = new Exercicio01();
 exemplo.Executar();
