@@ -36,9 +36,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp13OOMetodos", "CSharp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp14For", "CSharp14For\CSharp14For.csproj", "{D5F86F55-A110-43A6-BE0E-7D8FD3B56926}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp15ForComVetor", "CSharp15ForComVetor\CSharp15ForComVetor.csproj", "{691C43DD-7BBB-481C-B1E0-D37793EC2F7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp15ForComVetor", "CSharp15ForComVetor\CSharp15ForComVetor.csproj", "{691C43DD-7BBB-481C-B1E0-D37793EC2F7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp16ListasTiposPrimitivos", "CSharp16ListasTiposPrimitivos\CSharp16ListasTiposPrimitivos.csproj", "{F6AF7F15-7FDD-48B9-AEFD-6400A94F1C30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp16ListasTiposPrimitivos", "CSharp16ListasTiposPrimitivos\CSharp16ListasTiposPrimitivos.csproj", "{F6AF7F15-7FDD-48B9-AEFD-6400A94F1C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp17ListaObjetos", "CSharp17ListaObjetos\CSharp17ListaObjetos.csproj", "{4AB47C20-6E82-4F22-BCCF-DC3F8D8FAFEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -110,6 +112,10 @@ Global
 		{F6AF7F15-7FDD-48B9-AEFD-6400A94F1C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6AF7F15-7FDD-48B9-AEFD-6400A94F1C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6AF7F15-7FDD-48B9-AEFD-6400A94F1C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB47C20-6E82-4F22-BCCF-DC3F8D8FAFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB47C20-6E82-4F22-BCCF-DC3F8D8FAFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB47C20-6E82-4F22-BCCF-DC3F8D8FAFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB47C20-6E82-4F22-BCCF-DC3F8D8FAFEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
